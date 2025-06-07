@@ -12,11 +12,11 @@ body::-webkit-scrollbar{
 
 body{
 
-    cursor: url('assests/arrowhead.png'), auto;
+    cursor: url('/website/assests/arrowhead.png'), auto;
 
     user-select: none;
     background-color: #fffefe;
-    background-image: url("/assests/back.png");
+    background-image: url("/website/assests/back.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -116,7 +116,7 @@ p{
     font-size: 40px;
 }
 .top:hover{
-    cursor: url('assests/arrowhead\ \(1\).png'), auto;
+    cursor: url('/website/assests/arrowhead\ \(1\).png'), auto;
 
 }
 
@@ -144,7 +144,7 @@ p{
 
 .a:hover{
     border:2px solid white;
-    cursor: url('assests/arrowhead\ \(1\).png'), auto;
+    cursor: url('/website/assests/arrowhead\ \(1\).png'), auto;
 
 
 }
